@@ -36,7 +36,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    Calicut , Kerala , India
                                 </div>
                             </div>
 
@@ -58,7 +58,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 7510328839
                                 </div>
                             </div>
 
@@ -80,7 +80,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    jeevamk100@gmail.com
                                 </div>
                             </div>
                         </div>
