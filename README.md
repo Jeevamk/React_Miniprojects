@@ -1,4 +1,4 @@
 # Simple portfolio 
 # Context API 
-# Theame switcher
+# Theme switcher
 
